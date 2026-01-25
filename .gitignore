@@ -1,0 +1,18 @@
+# Data (too large for git)
+dataset_repo/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Model checkpoints (optional - can include best_model.pth)
+# checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
